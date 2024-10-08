@@ -2,7 +2,10 @@
 
 
 ## Acerca de mi
-hola! mi nombre es Jesus, soy estudiante de ingenieria de sistemas y computacion en la universidad tecnologica y pedagogica de colombia en la seccional de sogamoso.
+
+hello! My name is Jesus, I am a computer and systems engineering student at the Technological and Pedagogical University of Colombia in the Sogamoso section.
+
 
 ## Contact me
+
 As. I journey in full stack develoment, i am always on the lookout for collaborative projects and oportunities wherw i can contribute my skills and grown bath personally and professionally. Let's connect and explore how we can create something amazing together!
